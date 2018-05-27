@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.10.1
+FROM ubuntu:latest
 MAINTAINER Denys Zhdanov <denis.zhdanov@gmail.com>
 
 RUN apt-get -y update \
